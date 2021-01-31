@@ -7,7 +7,8 @@
 <p align="center">
   <br>
   <img src="https://img.shields.io/badge/-C++-00599C?logo=C%2b%2b&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/-Go-00ADD8?logo=Go&logoColor=white"/>&nbsp
   <br>
   <br>
   <img src="https://img.shields.io/badge/-Django-092e20?logo=django"/>&nbsp
@@ -30,6 +31,7 @@
   <br>
   <img src="https://img.shields.io/badge/-React-31bAdB?logo=React&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=Vue.js&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/-Next.js-000000?logo=Next.js&logoColor=white"/>&nbsp
   <br>
   <br>
   <img src="https://img.shields.io/badge/-AWS-232F3E?logo=Amazon%20AWS&logoColor=white"/>&nbsp
