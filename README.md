@@ -8,9 +8,10 @@
   <br>
   <img src="https://img.shields.io/badge/-C++-00599C?logo=C%2b%2b&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/-Go-00ADD8?logo=Go&logoColor=white"/>&nbsp
+  <br>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/-Go-00ADD8?logo=Go&logoColor=white"/>&nbsp
   <br>
   <br>
   <img src="https://img.shields.io/badge/-Django-092e20?logo=django"/>&nbsp
