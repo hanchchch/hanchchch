@@ -14,6 +14,8 @@
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=white"/>&nbsp
   <br>
+  <img src="https://img.shields.io/badge/-Solidity-363636?logo=Solidity&logoColor=white"/>&nbsp
+  <br>
   <br>
   <img src="https://img.shields.io/badge/-Django-092e20?logo=django"/>&nbsp
   <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white">
@@ -21,7 +23,7 @@
   <img src="https://img.shields.io/badge/-php-777BB4?logo=PHP&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white"/>&nbsp
   <br>
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=PostgreSQL"/>&nbsp
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=PostgreSQL&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/-SQLite-003B57?logo=SQLite"/>&nbsp
   <br>
