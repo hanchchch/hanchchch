@@ -1,5 +1,4 @@
 # Hanch
-## Backend developer
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/hanchchch)](https://github.com/hanchchch)
 [![hanchchch's blog](https://img.shields.io/badge/-Blog-darkgreen)](https://hanchchch.tistory.com)
