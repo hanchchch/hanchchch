@@ -5,20 +5,21 @@
 
 <p align="center">
   <br>
+  <img src="https://img.shields.io/badge/-Go-00ADD8?logo=Go&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white"/>&nbsp
+  <br>
   <img src="https://img.shields.io/badge/-C++-00599C?logo=C%2b%2b&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/-Go-00ADD8?logo=Go&logoColor=white"/>&nbsp
-   <img src="https://img.shields.io/badge/-Java-007396?logo=Java&logoColor=white"/>&nbsp
-  <br>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=TypeScript&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/-Java-007396?logo=Java&logoColor=white"/>&nbsp
   <br>
   <img src="https://img.shields.io/badge/-Solidity-363636?logo=Solidity&logoColor=white"/>&nbsp
   <br>
   <br>
   <img src="https://img.shields.io/badge/-Django-092e20?logo=django"/>&nbsp
-  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/-Flask-000000?logo=flask"/>&nbsp
+  <img src="https://img.shields.io/badge/-Nest.js-E0234E?logo=nestjs&logoColor=white">
+  <img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/-php-777BB4?logo=PHP&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white"/>&nbsp
   <br>
@@ -43,6 +44,7 @@
   <img src="https://img.shields.io/badge/-git-F05032?logo=git&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/-Sentry-362D59?logo=Sentry&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/-Pulumi-8A3391?logo=Pulumi&logoColor=white"/>&nbsp
   <br>
   <br>
 </p>
