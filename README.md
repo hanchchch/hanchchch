@@ -2,7 +2,8 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/hanchchch)](https://github.com/hanchchch)
 [![hanchchch's blog](https://img.shields.io/badge/-Blog-darkgreen)](https://velog.io/@hanchchch)
-[![hanchchch's cv](https://img.shields.io/badge/-CV-blue)](https://github.com/hanchchch/cv/blob/main/source/CV_ChungHwanHan.pdf)
+[![hanchchch's cv-en](https://img.shields.io/badge/-CV(en)-blue)](https://github.com/hanchchch/cv/blob/main/source/CV_ChungHwanHan.pdf)
+[![hanchchch's cv-ko](https://img.shields.io/badge/-CV(ko)-blue)](https://github.com/hanchchch/cv/blob/main/source/CV_ChungHwanHan_ko.pdf)
 
 <p align="center">
   <br>
